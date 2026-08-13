@@ -22,6 +22,7 @@ td:first-child {
 
 | Year    | President            | Vice President | Treasurer         | Secretary     |
 |---------|----------------------|----------------|-------------------|---------------|
+| 2026-27 | Lily Siwik           |                | Lillith ---       |               |
 | 2025-26 | Lily Siwik           |                | Lillith ---       |               |
 | 2024-25 | Ersei Saggi          |                | Lily Siwik        | Lillith ---   |
 | 2023-24 | Logan Hickok-Dickson |                | Ersei Saggi       | Lily Siwik    |
@@ -46,6 +47,7 @@ td:first-child {
 
 | Year    | Webmaster      | Member-at-Large            |
 |---------|----------------|----------------------------|
+| 2026-27 | Lillith ---    |                            |
 | 2025-26 | Lillith ---    |                            |
 | 2024-25 | Lillith ---    |                            |
 | 2021-22 | Thomas Kennell |                            |
