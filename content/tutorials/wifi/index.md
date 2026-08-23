@@ -56,3 +56,20 @@ Description='PAL3.0-profile'
 ```
 
 After doing this, you should be able to connect to PAL by running netctl switch-to PAL3
+
+## Connect with wpa_supplicant
+
+An example `/etc/wpa_supplicant.conf` entry for PAL3.0 or eduroam.
+
+For eduroam your username is your whole email (username@purdue.edu)
+
+```
+network={
+    ssid="PAL3.0" # or eduroam
+    key_mgmt=WPA-EAP
+    eap=PEAP
+    phase2="auth=MSCHAPV2"
+    identity="USERNAME"
+    password="PASSWORD"
+}
+```
